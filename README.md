@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tiago - I am a Software Engineer at [AIQ](https://www.aiqintelligence.ae).
 - 👀 I’m interested in Web Development and Data Engineering.
 - 🌱 I’m currently learning Rust and WASM.
-- 💞️ I’m looking to collaborate on open source Developer Experience tools.
+- 💻 I’m looking to collaborate on open source Developer Experience tools.
 - 📫 How to reach me: 
     - [LinkedIn](https://www.linkedin.com/in/tiagoclaropessoa)
     - [Website](https://www.tpessoa.xyz/)
