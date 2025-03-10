@@ -1,4 +1,3 @@
-- Hi, I’m Tiago - I am a Software Engineer at [AIQ](https://www.aiqintelligence.ae).
 ```
 >be me
 >studied physics
@@ -12,10 +11,6 @@
 >it's all state changes? always has been
 >physics was the friends I made along the way
 ```
-- I’m looking to collaborate on open source Developer Experience tools.
-
-- easiest way to reach me, DM on:
-    - [LinkedIn](https://www.linkedin.com/in/tiagoclaropessoa)
 
 <!---
 tcpessoa/tcpessoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
