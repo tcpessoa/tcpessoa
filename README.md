@@ -5,7 +5,7 @@
 >ended up liking Machine Learning
 >figured out what I liked was data
 >tried data engineering
->too much SQL, not enough computer science
+>too much SQL
 >become software engineer instead
 >SQL becomes CRUD
 >it's all state changes? always has been
